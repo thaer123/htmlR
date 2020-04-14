@@ -10,6 +10,9 @@ if (customerName!= null) {
 
 }
 
+confirm("Press a button!");
+alert("Hello! I am an alert box!!");
+
 
 
 
